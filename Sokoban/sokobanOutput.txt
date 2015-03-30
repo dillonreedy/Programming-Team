@@ -1,0 +1,526 @@
+At move number 1 we do instruction U
+#########
+#...#...#
+#..bbwb.#
+#...#.#.#
+#...#b#.#
+#...++++#
+#...#..##
+#########
+
+At move number 2 we do instruction L
+#########
+#...#...#
+#..bbwb.#
+#...#.#.#
+#...#b#.#
+#...++++#
+#...#..##
+#########
+
+At move number 3 we do instruction R
+#########
+#...#...#
+#..bb.wb#
+#...#.#.#
+#...#b#.#
+#...++++#
+#...#..##
+#########
+
+At move number 4 we do instruction U
+#########
+#...#.w.#
+#..bb..b#
+#...#.#.#
+#...#b#.#
+#...++++#
+#...#..##
+#########
+
+At move number 5 we do instruction R
+#########
+#...#..w#
+#..bb..b#
+#...#.#.#
+#...#b#.#
+#...++++#
+#...#..##
+#########
+
+At move number 6 we do instruction D
+#########
+#...#...#
+#..bb..w#
+#...#.#b#
+#...#b#.#
+#...++++#
+#...#..##
+#########
+
+At move number 7 we do instruction D
+#########
+#...#...#
+#..bb...#
+#...#.#w#
+#...#b#b#
+#...++++#
+#...#..##
+#########
+
+At move number 8 we do instruction D
+#########
+#...#...#
+#..bb...#
+#...#.#.#
+#...#b#w#
+#...+++B#
+#...#..##
+#########
+
+At move number 9 we do instruction U
+#########
+#...#...#
+#..bb...#
+#...#.#w#
+#...#b#.#
+#...+++B#
+#...#..##
+#########
+
+At move number 10 we do instruction U
+#########
+#...#...#
+#..bb..w#
+#...#.#.#
+#...#b#.#
+#...+++B#
+#...#..##
+#########
+
+At move number 11 we do instruction L
+#########
+#...#...#
+#..bb.w.#
+#...#.#.#
+#...#b#.#
+#...+++B#
+#...#..##
+#########
+
+At move number 12 we do instruction L
+#########
+#...#...#
+#..bbw..#
+#...#.#.#
+#...#b#.#
+#...+++B#
+#...#..##
+#########
+
+At move number 13 we do instruction D
+#########
+#...#...#
+#..bb...#
+#...#w#.#
+#...#b#.#
+#...+++B#
+#...#..##
+#########
+
+At move number 14 we do instruction D
+#########
+#...#...#
+#..bb...#
+#...#.#.#
+#...#w#.#
+#...+B+B#
+#...#..##
+#########
+
+At move number 15 we do instruction D
+#########
+#...#...#
+#..bb...#
+#...#.#.#
+#...#.#.#
+#...+W+B#
+#...#b.##
+#########
+
+At move number 1 we do instruction D
+#########
+#...#...#
+#...b.b.#
+#...#.#.#
+#...#w#.#
+#...+B.+#
+#...#..##
+#########
+
+At move number 2 we do instruction U
+#########
+#...#...#
+#...b.b.#
+#...#w#.#
+#...#.#.#
+#...+B.+#
+#...#..##
+#########
+
+At move number 3 we do instruction U
+#########
+#...#...#
+#...bwb.#
+#...#.#.#
+#...#.#.#
+#...+B.+#
+#...#..##
+#########
+
+At move number 4 we do instruction R
+#########
+#...#...#
+#...b.wb#
+#...#.#.#
+#...#.#.#
+#...+B.+#
+#...#..##
+#########
+
+At move number 5 we do instruction U
+#########
+#...#.w.#
+#...b..b#
+#...#.#.#
+#...#.#.#
+#...+B.+#
+#...#..##
+#########
+
+At move number 6 we do instruction R
+#########
+#...#..w#
+#...b..b#
+#...#.#.#
+#...#.#.#
+#...+B.+#
+#...#..##
+#########
+
+At move number 7 we do instruction D
+#########
+#...#...#
+#...b..w#
+#...#.#b#
+#...#.#.#
+#...+B.+#
+#...#..##
+#########
+
+At move number 8 we do instruction D
+#########
+#...#...#
+#...b...#
+#...#.#w#
+#...#.#b#
+#...+B.+#
+#...#..##
+#########
+
+At move number 9 we do instruction D
+#########
+#...#...#
+#...b...#
+#...#.#.#
+#...#.#w#
+#...+B.B#
+#...#..##
+#########
+
+At move number 10 we do instruction U
+#########
+#...#...#
+#...b...#
+#...#.#w#
+#...#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 11 we do instruction U
+#########
+#...#...#
+#...b..w#
+#...#.#.#
+#...#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 12 we do instruction L
+#########
+#...#...#
+#...b.w.#
+#...#.#.#
+#...#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 13 we do instruction L
+#########
+#...#...#
+#...bw..#
+#...#.#.#
+#...#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 14 we do instruction L
+#########
+#...#...#
+#..bw...#
+#...#.#.#
+#...#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 15 we do instruction L
+#########
+#...#...#
+#.bw....#
+#...#.#.#
+#...#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 16 we do instruction U
+#########
+#..w#...#
+#.b.....#
+#...#.#.#
+#...#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 17 we do instruction L
+#########
+#.w.#...#
+#.b.....#
+#...#.#.#
+#...#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 18 we do instruction D
+#########
+#...#...#
+#.w.....#
+#.b.#.#.#
+#...#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 19 we do instruction D
+#########
+#...#...#
+#.......#
+#.w.#.#.#
+#.b.#.#.#
+#...+B.B#
+#...#..##
+#########
+
+At move number 20 we do instruction D
+#########
+#...#...#
+#.......#
+#...#.#.#
+#.w.#.#.#
+#.b.+B.B#
+#...#..##
+#########
+
+At move number 21 we do instruction L
+#########
+#...#...#
+#.......#
+#...#.#.#
+#w..#.#.#
+#.b.+B.B#
+#...#..##
+#########
+
+At move number 22 we do instruction D
+#########
+#...#...#
+#.......#
+#...#.#.#
+#...#.#.#
+#wb.+B.B#
+#...#..##
+#########
+
+At move number 23 we do instruction R
+#########
+#...#...#
+#.......#
+#...#.#.#
+#...#.#.#
+#.wb+B.B#
+#...#..##
+#########
+
+At move number 24 we do instruction R
+#########
+#...#...#
+#.......#
+#...#.#.#
+#...#.#.#
+#..wBB.B#
+#...#..##
+#########
+
+At move number 1 we do instruction D
+#######
+#..####
+#.+.+.#
+#.bb#.#
+##...w#
+#######
+
+At move number 2 we do instruction L
+#######
+#..####
+#.+.+.#
+#.bb#.#
+##..w.#
+#######
+
+At move number 3 we do instruction L
+#######
+#..####
+#.+.+.#
+#.bb#.#
+##.w..#
+#######
+
+At move number 4 we do instruction U
+#######
+#..####
+#.+b+.#
+#.bw#.#
+##....#
+#######
+
+At move number 5 we do instruction D
+#######
+#..####
+#.+b+.#
+#.b.#.#
+##.w..#
+#######
+
+At move number 6 we do instruction L
+#######
+#..####
+#.+b+.#
+#.b.#.#
+##w...#
+#######
+
+At move number 7 we do instruction U
+#######
+#..####
+#.Bb+.#
+#.w.#.#
+##....#
+#######
+
+At move number 8 we do instruction L
+#######
+#..####
+#.Bb+.#
+#w..#.#
+##....#
+#######
+
+At move number 9 we do instruction U
+#######
+#..####
+#wBb+.#
+#...#.#
+##....#
+#######
+
+At move number 10 we do instruction U
+#######
+#w.####
+#.Bb+.#
+#...#.#
+##....#
+#######
+
+At move number 11 we do instruction R
+#######
+#.w####
+#.Bb+.#
+#...#.#
+##....#
+#######
+
+At move number 12 we do instruction D
+#######
+#..####
+#.Wb+.#
+#.b.#.#
+##....#
+#######
+
+At move number 13 we do instruction R
+#######
+#..####
+#.+wB.#
+#.b.#.#
+##....#
+#######
+
+At move number 14 we do instruction D
+#######
+#..####
+#.+.B.#
+#.bw#.#
+##....#
+#######
+
+At move number 15 we do instruction D
+#######
+#..####
+#.+.B.#
+#.b.#.#
+##.w..#
+#######
+
+At move number 16 we do instruction L
+#######
+#..####
+#.+.B.#
+#.b.#.#
+##w...#
+#######
+
+At move number 17 we do instruction U
+#######
+#..####
+#.B.B.#
+#.w.#.#
+##....#
+#######
+
